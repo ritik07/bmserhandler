@@ -1,0 +1,22 @@
+{
+    "name": "@ritik07/bmserhandler",
+    "version": "1.1.7",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ritik07/bmserhandler"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/ritik07"
+    },
+    "author": "Ritik",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ritik07/bmserhandler/issues"
+    },
+    "homepage": "https://github.com/ritik07/bmserhandler#readme"
+}
